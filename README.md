@@ -33,4 +33,4 @@ Simulations of multi-modal distributions can be very **costly** and often lead t
 
 3. W. Deng, Q. Feng, L. Gao, F. Liang, G. Lin. [Non-convex Learning via Replica Exchange Stochastic Gradient MCMC](https://arxiv.org/pdf/2008.05367.pdf). ICML'20.
 
-4. W. Deng, G. Lin, F. Liang. A Contour Stochastic Gradient Langevin Dynamics Algorithm for Simulations of Multi-modal Distributions. NeurIPS'20.
+4. W. Deng, G. Lin, F. Liang. [A Contour Stochastic Gradient Langevin Dynamics Algorithm for Simulations of Multi-modal Distributions](https://arxiv.org/pdf/2010.09800.pdf). NeurIPS'20.
