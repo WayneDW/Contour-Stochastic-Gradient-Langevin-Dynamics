@@ -18,7 +18,7 @@ Simulations of multi-modal distributions can be very **costly** and often lead t
 | SGLD (ICML'11) |  Extremely slow | None | None |
 | Cycic SGLD (ICLR'20) |    Medium   | Cyclic learning rates  | More cycles |
 | Replica exchange SGLD (ICML'20) | Fast | Swaps/Jumps | Parallel chains |
-| Contour SGLD (NeurIPS'20) | Fast | Bouncy moves | Estimate latent vector |
+| Contour SGLD (NeurIPS'20) | Fast | Bouncy moves | Latent vector |
 
 
 
