@@ -22,6 +22,11 @@ Simulations of multi-modal distributions can be very **costly** and often lead t
 
 
 
+The following is a demo to show how the latent vector is gradually estimated
+<p float="left">
+  <img src="figures/CSGLD_with_PDF.gif" width="250" title="SGLD"/>
+  <img src="figures/CSGLD_PDF.gif" width="250" alt="Made with Angular" title="Angular" /> 
+</p>
 
 
 
