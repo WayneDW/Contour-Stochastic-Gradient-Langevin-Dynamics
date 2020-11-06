@@ -28,7 +28,14 @@ The following is a demo to show how the latent vector is gradually estimated
   <img src="figures/CSGLD_PDF.gif" width="200" alt="Made with Angular" title="Angular" /> 
 </p>
 
-
+```
+@inproceedings{CSGLD,
+  title={A Contour Stochastic Gradient Langevin Dynamics Algorithm for Simulations of Multi-modal Distributions},
+  author={Wei Deng and Guang Lin and Faming Liang},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2020}
+}
+```
 
 ## References:
 
