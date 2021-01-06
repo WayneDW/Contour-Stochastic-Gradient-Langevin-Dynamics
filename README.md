@@ -30,6 +30,10 @@ The following is a demo to show how the latent vector is gradually estimated
   <img src="figures/CSGLD_PDF.gif" width="200" alt="Made with Angular" title="Angular" /> 
 </p>
 
+<p float="left">
+  <img src="figures/CSGLD_GIFs.mov" width="200" title="CSGLD"/>
+</p>
+
 ```
 @inproceedings{CSGLD,
   title={A Contour Stochastic Gradient Langevin Dynamics Algorithm for Simulations of Multi-modal Distributions},
