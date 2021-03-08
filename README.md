@@ -30,7 +30,7 @@ The following is a demo to show how the latent vector is gradually estimated
   <img src="figures/CSGLD_PDF.gif" width="200" alt="Made with Angular" title="Angular" /> 
 </p>
 
-Note that this version doesn't handle high-loss problems appropriately, please wait a few months to check for the follow-up papers. 
+Note that this version of CSGLD doesn't handle **high-loss** problems appropriately, please wait a few months to check for the follow-up papers. 
 
 ```
 @inproceedings{CSGLD,
