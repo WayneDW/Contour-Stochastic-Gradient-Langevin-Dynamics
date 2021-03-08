@@ -2,7 +2,7 @@
 
 Simulations of multi-modal distributions can be very **costly** and often lead to **unreliable** predictions. To accelerate the computations, we propose to sample from a **flattened** distribution to **accelerate the computations** and estimate the **importance weights** between the original distribution and the flattened distribution to **ensure the correctness** of the distribution. 
 
-For Chinese readers, you may also find this blog interesting [知乎](https://zhuanlan.zhihu.com/p/267633636).
+We refer interested readers to [blog](https://waynedw.github.io/posts/CSGLD/) here. For Chinese readers, you may also find this blog interesting [知乎](https://zhuanlan.zhihu.com/p/267633636).
 
 
 
