@@ -30,7 +30,7 @@ The following is a demo to show how the latent vector is gradually estimated
   <img src="figures/CSGLD_PDF.gif" width="200" alt="Made with Angular" title="Angular" /> 
 </p>
 
-Although this version of CSGLD has a global statbility condition, it doesn't handle **high-loss** problems appropriately. Please wait the acceptance of a follow-up paper (submitted).
+Although this version of CSGLD has a global statbility condition, it doesn't handle **high-loss** problems appropriately. Please wait the acceptance of a follow-up submitted paper that solves the long-standing scalability problem (in terms of dimension) for importance sampling.
 
 ```
 @inproceedings{CSGLD,
