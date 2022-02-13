@@ -30,7 +30,7 @@ The following is a demo to show how the latent vector is gradually estimated
   <img src="figures/CSGLD_PDF.gif" width="200" alt="Made with Angular" title="Angular" /> 
 </p>
 
-Although this version of CSGLD has a global statbility condition, it doesn't handle **high-loss** problems appropriately. For a more scalable version, please check the paper [\[Link\]](https://openreview.net/pdf?id=IK9ap6nxXr2) and the code [\[Link\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics) here. Since importance sampling suffers a lot from the large variance issue, the conditional independence will provide the algorithm a perfect variance reduction for estimaing the density of states.
+Although this version of CSGLD has a global statbility condition, it doesn't handle **high-loss** problems appropriately. For a more scalable version, please check the paper [\[Link\]](https://openreview.net/pdf?id=IK9ap6nxXr2) and the code [\[Link\]](https://github.com/WayneDW/Interacting-Contour-Stochastic-Gradient-Langevin-Dynamics) here. Since importance sampling suffers a lot from the **large variance** issue, the conditional independence will provide the algorithm a **perfect variance reduction** for estimaing the density of states.
 
 ```
 @inproceedings{CSGLD,
